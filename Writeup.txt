@@ -1,0 +1,27 @@
+                A Thesaurus Client and Server
+
+Login id : asg6506
+Name : Akshat Sunil Gawankar
+
+The client code is referred from : https://www.youtube.com/watch?v=-GoqPrxM8TQ 
+
+The server code is referred from : http://pirate.shu.edu/~wachsmut/Teaching/CSAS2214/Virtual/Lectures/chat-client-server.html
+
+
+Environments:
+ 
+1.Programing Language used : Java
+2.Database used : MySql
+3.IDE used : Eclipse
+
+How to run the code :
+1.Start eclipse IDE and open the files.
+
+2.Then right click on the ServSoc.java and click on Run as Java application. The server will start.
+
+3.Follow the same steps for client.
+
+4.The Result are displayed in client textfield.
+
+5.The server is made Multithreaded.It can handle multiple clients, without restarting, at a single time,
+
